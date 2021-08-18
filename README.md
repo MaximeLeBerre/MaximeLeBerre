@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">Hi developers, I am a web & mobile development student. What I prefer ? Javascript, React and Nodejs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximeleberre&label=Profile%20views&color=0e75b6&style=flat" alt="maximeleberre" /> </p>
 
 - 🌱 I’m currently learning **React, Node, Mongodb and GraphQl**
 
@@ -15,6 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximeleberre&show_icons=true&locale=en&layout=compact" alt="maximeleberre" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximeleberre&show_icons=true&locale=en" alt="maximeleberre" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximeleberre&label=Profile%20views&color=0e75b6&style=flat" alt="maximeleberre" /> </p>
+
 
 
